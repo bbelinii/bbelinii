@@ -13,9 +13,7 @@ const bernardo = {
   username: "bbelinii",
   area: "Engenharia de Software",
   foco: ["Back-end", "Front-end", "Lógica", "Projetos"],
-  estudando: ["Java", "Python", "JavaScript", "Git", "GitHub"],
   objetivo: "Me tornar um desenvolvedor completo e criar soluções úteis",
-  frase: "Sempre aprendendo, sempre evoluindo 🚀"
 };
 ```
 
